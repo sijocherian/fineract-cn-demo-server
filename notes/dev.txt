@@ -1,0 +1,2 @@
+use per repo
+   git config user.email {the noreply email}
