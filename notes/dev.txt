@@ -1,2 +1,2 @@
 use per repo
-   git config user.email {the noreply email}
+-   git config user.email {the noreply email}
